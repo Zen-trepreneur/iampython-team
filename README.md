@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on budiling open source community. Where to spread knowldge to people 
+- 🔭 I’m currently working on building open source community. Where to spread knowldge to people 
 - 🌱 I’m currently learning public speaking and AI cognitive computing. 
 - 👯 I’m looking to collaborate on AI, Datascience enthusiast.  
 - 💬 Ask me about AI, Datascience and Python ... Happy to help you.
